@@ -1,5 +1,8 @@
 # Lista de Atividades: Reforço de Estudo para a Prova 02
 
+### Nome: João Pedro Lima Gaspar
+### RA: 197331
+
 ## Índice
 
 1. [Binary Search](#1-binary-search)
